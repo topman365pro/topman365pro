@@ -1,4 +1,4 @@
-Im born in 2010 im a person
+im a person
 thats all you need to know
 <!---
 topman365pro/topman365pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
